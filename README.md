@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepchand41
-- 👀 I’m interested in multi-agent-system, motion planning, control theory, machine learning and robotics.
+- 👀 I’m interested in computer vision, motion planning, control theory, machine learning and robotics.
 - 🌱 I’m currently learning motion planning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chanddeepak503@gmail.com.
