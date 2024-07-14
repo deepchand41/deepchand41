@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepchand41
 - 👀 I’m interested in computer vision, motion planning, control theory, machine learning and robotics.
-- 🌱 I’m currently learning motion planning.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ML and Computer Vision.
+- 💞️ I’m looking to collaborate on ML and Computer Vision projects.
 - 📫 How to reach me chanddeepak503@gmail.com.
 
 <!---
